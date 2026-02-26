@@ -1,0 +1,7 @@
+numpy
+svgwrite
+tensorflow
+tensorflow-probability
+tf_keras
+scipy
+matplotlib
